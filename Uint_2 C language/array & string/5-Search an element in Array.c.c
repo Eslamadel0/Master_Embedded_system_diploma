@@ -7,9 +7,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
-   
+
+	//variable
 	int i,num,element;
 	int arr[30];
+	//process
 	printf("enter number of elements \n");
 	fflush(stdin);    fflush(stdout);
 	scanf("%d",&num);
