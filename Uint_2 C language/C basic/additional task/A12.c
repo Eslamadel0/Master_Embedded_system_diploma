@@ -4,7 +4,7 @@
  *  Created on: Feb 27, 2023
  *      Author:  Eslam adel fathy
 Description : Write a program that reads a positive integer and 
-computes the factorial.
+computes the factorial.*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
@@ -28,4 +28,3 @@ int main(void){
   }
     return 0;
 }
- */
