@@ -4,7 +4,7 @@
  *  Created on: Feb 28, 2023
  *      Author: Eslam adel fathy
 Description :Write a program to calculate the power of a number.
-The number and its power are input from user.
+The number and its power are input from user.*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
@@ -28,4 +28,3 @@ int main(void){
 
 	return 0;
 }
- */
