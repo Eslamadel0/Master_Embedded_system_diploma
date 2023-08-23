@@ -3,14 +3,15 @@
  *
  *  Created on: Feb 24, 2023
  *      Author: Eslam adel fathy
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
 
+	//variables
 	char c;
 	float num1,num2;
-
+        //process
 	printf("enter  operator( + or - or * or /) \n");
 	printf("enter two numbers \n");
     setbuf(stdout,NULL);
@@ -34,4 +35,3 @@ int main (void){
 	}
 	return 0;
 }
- */
