@@ -1,6 +1,7 @@
 /*
  * ass2_array.c
- *      Author: eslam adel fath
+ *      Author: eslam adel fathy
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
@@ -29,4 +30,4 @@ int main (void){
     average=sum/n;
     printf("average = %.4f \n",average);
 
-}*/
+}
