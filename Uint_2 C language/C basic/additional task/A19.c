@@ -4,6 +4,7 @@
  *  Created on: Feb 28, 2023
  *      Author:  Eslam adel fathy
 Description :Write a program to display inverted half pyramid using stars pattern.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
@@ -25,4 +26,3 @@ int main(void){
 
 
 }
-*/
