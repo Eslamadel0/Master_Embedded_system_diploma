@@ -8,8 +8,10 @@
 #include <stdlib.h>
 int main(void){
 
+	//variable
 	 char s[100],i;
 	 int sum=0;
+	//process
 	 printf("enter the string \n");
 	 fflush (stdin);    fflush (stdout);
 	 scanf("%s",&s);
