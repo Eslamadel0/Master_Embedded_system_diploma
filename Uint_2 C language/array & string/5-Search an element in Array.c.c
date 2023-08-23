@@ -3,11 +3,11 @@
  *
  *  Created on: ٢٣‏/٠٨‏/٢٠٢٣
  *      Author:Eslam adel fathy
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
-
+   
 	int i,num,element;
 	int arr[30];
 	printf("enter number of elements \n");
@@ -32,4 +32,3 @@ int main (void){
 	else
 		printf("number is not found");
 }
-*/
