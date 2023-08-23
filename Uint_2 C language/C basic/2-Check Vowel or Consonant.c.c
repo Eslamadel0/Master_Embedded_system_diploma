@@ -8,11 +8,11 @@
 #include <stdlib.h>
 int main (void){
 
-
+        // variable declaration 
 	char c;
 	printf("enter the alphabet : \n");
 	scanf("%c",&c);
-
+        //process
 	if (c=='a'||c=='A'||c=='u'||c=='U'||c=='o'||c=='O'||c=='e'||c=='E'||c=='i'||c=='I')
 
 		printf("the alphabet is vowel \n");
