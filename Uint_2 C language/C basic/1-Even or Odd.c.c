@@ -8,11 +8,12 @@
 #include <stdlib.h>
 int main (void){
 
+	// variable declaration
 	int x=0;
 
 	printf("enter the number you want to check :  \n ");
 	scanf("%d",&x);
-
+        //process
 	if(x%2==0)
 		printf("the number is even \n");
 	else
