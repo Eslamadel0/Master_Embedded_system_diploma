@@ -3,7 +3,7 @@
  *
  *  Created on: Feb 24, 2023
  *      Author: Eslam adel fathy
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
@@ -19,4 +19,4 @@ int main (void){
 	else
 		printf("the alphabet is consonant \c");
 }
-*/
+
