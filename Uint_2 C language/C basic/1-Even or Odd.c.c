@@ -4,7 +4,7 @@
  *  Created on: Feb 24, 2023
  *      Author: Eslam adel fathy
  */
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 int main (void){
 
@@ -19,4 +19,4 @@ int main (void){
 		printf("the number is odd \n");
 
 	return 0;
-}*/
+}
