@@ -3,7 +3,7 @@
  *
  *  Created on: ٢٣‏/٠٨‏/٢٠٢٣
  *      Author:Eslam adel fathy
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
@@ -28,4 +28,3 @@ int main (void){
 	    printf("frequency of %c is =%d",ch,count);
 
 }
-*/
