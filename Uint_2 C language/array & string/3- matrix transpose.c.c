@@ -14,7 +14,6 @@ int main (void){
 	setbuf(stdout,NULL);
 	printf("enter number of matrix");
 	scanf("%d %d",&row,&col);
-	//process
 	for(i=0; i<row; i++)
 	{
 		for(j=0; j<col; j++)
