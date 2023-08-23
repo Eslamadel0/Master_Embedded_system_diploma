@@ -8,7 +8,7 @@
 #include <stdlib.h>
 int main (void){
 
-	//variable
+	//variables
 	char ch, op[100];
 	int i,count=0;
         //process
