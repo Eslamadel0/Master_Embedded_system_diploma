@@ -3,7 +3,7 @@
  *
  *  Created on: ٢٣‏/٠٨‏/٢٠٢٣
  *      Author: Eslam adel fathy
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
@@ -20,4 +20,3 @@ int main(void){
 
 		 printf("length of string is %d",sum);
 }
- */
