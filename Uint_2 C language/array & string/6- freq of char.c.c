@@ -8,9 +8,10 @@
 #include <stdlib.h>
 int main (void){
 
+	//variable
 	char ch, op[100];
 	int i,count=0;
-
+        //process
 	  printf("enter your string \n");
 	  fflush(stdin);      fflush(stdout);
 	  gets(op);
