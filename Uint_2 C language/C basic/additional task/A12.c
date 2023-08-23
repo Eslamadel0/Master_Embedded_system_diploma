@@ -5,17 +5,18 @@
  *      Author:  Eslam adel fathy
 Description : Write a program that reads a positive integer and 
 computes the factorial.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
 
 	setbuf(stdout,NULL);
-	// variable declaration
-    int i,n;
-    long long  f=1;
+    // variable declaration
+       int i,n;
+       long long  f=1;
     printf("enter number : \n");
     scanf("%d",&n);
-  //process
+    //process
      if (n<0)
     printf("Error! Factorial of a negative number doesn't exist.");
      else
@@ -28,4 +29,3 @@ int main(void){
   }
     return 0;
 }
- */
