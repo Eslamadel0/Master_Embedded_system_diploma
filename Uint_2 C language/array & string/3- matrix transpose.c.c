@@ -10,6 +10,7 @@ int main (void){
 	float a[10][10],b[10][10];
 	int row,col;
 	int i,j;
+	//process
 	setbuf(stdout,NULL);
 	printf("enter number of matrix");
 	scanf("%d %d",&row,&col);
