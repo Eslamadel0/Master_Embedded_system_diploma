@@ -8,7 +8,7 @@
 #include <stdlib.h>
 int main(void){
 
-	//variable
+	//variables
 	 char s[100],i;
 	 int sum=0;
 	//process
