@@ -8,7 +8,7 @@
 #include <string.h>
 int main (void){
 
-	//variable
+	//variables
 	float a[2][2],b[2][2],sum[2][2];
 	int row,col;
 	//process
