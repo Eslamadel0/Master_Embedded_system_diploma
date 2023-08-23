@@ -5,6 +5,7 @@
  *      Author: Eslam adel fathy
 Description :Write a program to count number of digits in a 
 decimal number.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
@@ -23,4 +24,3 @@ int main(void){
 	}
 	printf("Number of digits: %d", count);
 }
-*/
