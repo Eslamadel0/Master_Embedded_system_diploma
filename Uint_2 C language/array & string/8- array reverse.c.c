@@ -3,7 +3,7 @@
  *
  *  Created on: ٢٣‏/٠٨‏/٢٠٢٣
  *      Author: Eslam adel fathy
-
+*/
 #include <stdio.h>
 #include <string.h>
 int main(void){
@@ -29,4 +29,3 @@ int main(void){
 	      printf("\n  reverse string is : %s",ch);
 	     return 0;
 }
-*/
