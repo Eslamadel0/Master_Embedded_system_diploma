@@ -1,7 +1,7 @@
 /*
  * ass3_array.c
  *      Author: eslam adel fath
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int main (void){
@@ -48,4 +48,3 @@ int main (void){
 		printf("\n");
 	}
 }
-*/
