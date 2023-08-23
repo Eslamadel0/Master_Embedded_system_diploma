@@ -4,6 +4,7 @@
  *  Created on: Feb 28, 2023
  *      Author:  Eslam adel fathy
 Description :Write a program to reverse a number.
+ */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){
@@ -22,4 +23,3 @@ int main(void){
 	}
        printf("Reversed number = %d", reverse);
 }
-*/
