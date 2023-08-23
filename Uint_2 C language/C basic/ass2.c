@@ -8,7 +8,7 @@
 #include <stdlib.h>
 int main (void){
 
-	//variable
+	//variables
 	char c;
 	printf("enter the alphabet : \n");
 	scanf("%c",&c);
