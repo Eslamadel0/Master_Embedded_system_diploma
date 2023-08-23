@@ -8,7 +8,7 @@
 #include <stdlib.h>
 int main (void){
 
-	//variable
+	//variables
 	int x;
 	printf("enter the number you want to check \n");
         scanf("%d",&x);
