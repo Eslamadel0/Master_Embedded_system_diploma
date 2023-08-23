@@ -6,7 +6,7 @@
 #include <stdlib.h>
 int main (void){
 
-	//variable
+	//variables
 	float a[10][10],b[10][10];
 	int row,col;
 	int i,j;
