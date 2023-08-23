@@ -7,7 +7,7 @@
 #include <stdlib.h>
 int main(void){
 
-	//variable
+	//variables
 	int num,i,element,location;
 	int arr[30];
 	//process
