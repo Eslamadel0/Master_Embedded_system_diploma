@@ -6,7 +6,7 @@
 #include <stdlib.h>
 int main (void){
 
-	//variable
+	//variables
 	float num[100];
 	float sum,average;
 	int n,i;
