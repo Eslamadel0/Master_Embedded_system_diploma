@@ -8,6 +8,7 @@
 #include <string.h>
 int main(void){
 
+	//variable
 	char ch[100],arr;
 	int j=0,i=0;
 
