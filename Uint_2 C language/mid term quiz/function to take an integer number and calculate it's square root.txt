@@ -1,0 +1,16 @@
+//eslam adel fathy
+#include <stdio.h>
+#include <math.h>
+int main() {
+
+    //variables declaration
+    int number;
+    double sq;
+    //output and input
+    printf("enter the number :");
+    scanf("%d",&number);
+  
+   sq=sqrt(number);
+       printf("\n the square-root of number :%lf ",sq);
+  return 0;
+}

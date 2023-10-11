@@ -1,0 +1,24 @@
+// eslam adel fathy
+#include <stdio.h>
+void DigitSum(int x);
+int main(void) {
+    int x;
+
+    printf ("Enter the integer number::\n");
+    scanf ("%d", &x);
+
+    DigitSum(x);
+    return 0;
+}
+void DigitSum(int x) {
+    int sum = 0, m;
+
+    printf ("The sum of %d digits is = ", x);
+    while (x > 0) {
+        m = x%10;
+        sum = sum+m;
+        x = x/10;
+    }
+
+    printf ("%d\n", sum);
+}
