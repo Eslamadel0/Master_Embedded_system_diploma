@@ -1,13 +1,12 @@
 //eslam adel fathy 
 #include <stdio.h>
-
 int main() {
-
+  //variables declaration
   int n, reverse = 0, remainder;
-
+  //output and input
   printf("Enter an integer: ");
   scanf("%d", &n);
-
+  //process
   while (n != 0) {
     remainder = n % 10;
     reverse = reverse * 10 + remainder;
